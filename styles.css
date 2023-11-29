@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+.holder{
+	display: flex;
+	justify-content: centre;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+/* Your CSS Code here. */
+#green{
+	background-color: lightgreen;
+	width: 100px;
+	height: 100px;
+}
